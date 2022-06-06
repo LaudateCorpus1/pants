@@ -98,7 +98,7 @@ rand = "0.6"
 reqwest = { version = "0.9.10", default_features = false, features = ["rustls-tls"] }
 resettable = { path = "resettable" }
 smallvec = "0.6"
-tokio = "0.1"
+tokio = "1.8"
 tempfile = "3"
 ui = { path = "ui" }
 url = "1.7.1"
