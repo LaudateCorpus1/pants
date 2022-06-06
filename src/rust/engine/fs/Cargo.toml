@@ -38,5 +38,5 @@ uuid = { version = "0.7.1", features = ["v4"] }
 [dev-dependencies]
 mock = { path = "../testutil/mock" }
 testutil = { path = "../testutil" }
-tokio = "0.1"
+tokio = "1.8"
 walkdir = "2"
